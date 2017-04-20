@@ -1,0 +1,13 @@
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Circle Racing Game.exe.config
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Circle Racing Game.exe
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Circle Racing Game.pdb
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Circle Racing Game.xml
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle Racing Game.vbprojResolveAssemblyReference.cache
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle_Racing_Game.Form1.resources
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle_Racing_Game.Resources.resources
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle Racing Game.vbproj.GenerateResource.Cache
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle Racing Game.exe
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle Racing Game.xml
+F:\my memory\my dot net\Vb.net\Circle Racing Game\Circle Racing Game\obj\Debug\Circle Racing Game.pdb
